@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hello, I'm Gift Jeremiah! 👋
 
-<!--
-**giftthedeveloper/giftthedeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate backend engineer with a knack for crafting efficient and scalable solutions using a mix of technologies. From TypeScript to Python, etc  I'm always eager to dive into new challenges and learn new things.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 Currently building robust backend systems to power modern applications for tanta innovatives limited
+- 🌱 Currently Exploring the world of C# and .NET to broaden my technical horizons
+- 📚 Constantly learning and refining my skills to deliver high-quality solutions
+
+## What I Do
+
+- 💻 Develop backend services and APIs that drive seamless user experiences
+- ⚙️ Engineer reliable and performant systems, optimizing for speed and efficiency
+- 🧪 Test-driven development enthusiast, ensuring software reliability and maintainability
+
+## Technologies I Love
+
+- 🚀 TypeScript for building scalable and maintainable web applications
+- 🐍 Python for its versatility in backend development and automation
+- ⚙️ Exploring the possibilities of C# and .NET for backend and application development
+
+## Connect with Me
+
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/giftjeremiah/)
+- 🌐 Check out my [Portfolio](https://your-portfolio-website.com) to see my projects in action
+- 💼 You can also explore my backend adventures on [GitHub](https://github.com/your-username)
+
+Let's collaborate, code, and build the future together!
+
