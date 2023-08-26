@@ -22,9 +22,8 @@ I'm a passionate backend engineer with a knack for crafting efficient and scalab
 
 ## Connect with Me
 
-- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/giftjeremiah/)
-- 🌐 Check out my [Portfolio](https://your-portfolio-website.com) to see my projects in action
-- 💼 You can also explore my backend adventures on [GitHub](https://github.com/your-username)
+- 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/gift-jeremiah-1a413024b)
+- 💼 You can also explore my backend adventures on [GitHub](https://github.com/giftthedeveloper)
 
 Let's collaborate, code, and build the future together!
 
