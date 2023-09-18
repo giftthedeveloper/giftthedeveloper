@@ -4,7 +4,7 @@ I'm a passionate backend engineer with a knack for crafting efficient and scalab
 
 ## About Me
 
-- 🔭 Currently building robust backend systems to power modern applications for tanta innovatives limited
+- 🔭 Currently building robust backend systems to power a modern social media platform for Sheli
 - 🌱 Currently Exploring the world of C# and .NET to broaden my technical horizons
 - 📚 Constantly learning and refining my skills to deliver high-quality solutions
 
