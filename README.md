@@ -5,7 +5,7 @@ I'm a passionate backend engineer with a knack for crafting efficient and scalab
 ## About Me
 
 - 🔭 Currently building robust backend systems to power a modern social media platform for Sheli
-- 🌱 Currently Exploring the world of C# and .NET to broaden my technical horizons
+- 🌱 Currently Exploring the world of Java to broaden my technical horizons
 - 📚 Constantly learning and refining my skills to deliver high-quality solutions
 
 ## What I Do
@@ -18,7 +18,7 @@ I'm a passionate backend engineer with a knack for crafting efficient and scalab
 
 - 🚀 TypeScript for building scalable and maintainable web applications
 - 🐍 Python for its versatility in backend development and automation
-- ⚙️ Exploring the possibilities of C# and .NET for backend and application development
+- ⚙️ Exploring the possibilities of Java for backend  development
 
 ## Connect with Me
 
