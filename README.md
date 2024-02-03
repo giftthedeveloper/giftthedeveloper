@@ -1,11 +1,10 @@
 # Hello, I'm Gift Jeremiah! 👋
 
-I'm a passionate backend engineer with a knack for crafting efficient and scalable solutions using a mix of technologies. From TypeScript to Python, etc  I'm always eager to dive into new challenges and learn new things.
+I'm a passionate backend engineer with a knack for crafting efficient and scalable solutions using a mix of technologies. From TypeScript to Python and Java, etc  I'm always eager to dive into new challenges and learn new things.
 
 ## About Me
 
-- 🔭 Currently building robust backend systems to power a modern social media platform for Sheli
-- 🌱 Currently Exploring the world of Java to broaden my technical horizons
+- 🔭 Currently building robust backend systems for Dineqr
 - 📚 Constantly learning and refining my skills to deliver high-quality solutions
 
 ## What I Do
