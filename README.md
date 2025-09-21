@@ -1,23 +1,14 @@
 # Hello, I'm Gift Jeremiah! 👋
 
-I'm a passionate backend engineer with a knack for crafting efficient and scalable solutions using a mix of technologies. From TypeScript to Python and Java, etc  I'm always eager to dive into new challenges and learn new things.
+I'm a software engineer who just loves building stuff that works. i break things sometimes but i fix them better. always learning new tricks, always curious. 🚀.
 
 ## About Me
 
-- 🔭 Currently building robust backend systems for Dineqr
+- Love writing code that actually makes sense (most times 😂)
+- diving deeper into go + java, typescript and python every day
+- like solving real problems with simple clean solutions
+- believe in growing little by little, everyday
 - 📚 Constantly learning and refining my skills to deliver high-quality solutions
-
-## What I Do
-
-- 💻 Develop backend services and APIs that drive seamless user experiences
-- ⚙️ Engineer reliable and performant systems, optimizing for speed and efficiency
-- 🧪 Test-driven development enthusiast, ensuring software reliability and maintainability
-
-## Technologies I Love
-
-- 🚀 TypeScript for building scalable and maintainable web applications
-- 🐍 Python for its versatility in backend development and automation
-- ⚙️ Exploring the possibilities of Java for backend  development
 
 ## Connect with Me
 
